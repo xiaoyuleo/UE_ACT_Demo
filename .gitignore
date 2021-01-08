@@ -61,6 +61,7 @@ Binaries/*
 
 # Builds
 Build/*
+buildSwordOfMaria.bat
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
